@@ -1,1 +1,11 @@
-{}
+{
+  "version": "0.1.0",
+  "notes": "See the assets to download and install this version.",
+  "pub_date": "2023-12-01T01:37:15.787Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN0Z0M2ZuVTF1SlJucEZCQ2FqazVma1JxSnNyL1d5T241RnZ5NVpEbkJxSklNRE1obExBZ3lFckFRemw4ZStDZDRqdmVEMitxWmNkbEZ6SExCcDhlbjFVOWthZVJqSVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAxMzk0NjMxCWZpbGU6RGF1cGhpbl8wLjEuMF94NjRfZW4tVVMubXNpLnppcApqcGN5VEZ3dVZjbHpnY0RUTHpLR1hVV3BNM2t0MmFrTjFiWWtyaUp1WVVBSXFFc01USDJ6akVWTDVIdVlQczNNRVMwWDNzSG9nQTRPelN1QUMyQkNEQT09Cg==",
+      "url": "https://github.com/i9ver4get/dauphin/releases/download/v0.1.0/Dauphin_0.1.0_x64_en-US.msi.zip"
+    }
+  }
+}
