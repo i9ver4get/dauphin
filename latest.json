@@ -1,11 +1,15 @@
 {
   "version": "0.1.0",
-  "notes": "See the assets to download and install this version.",
-  "pub_date": "2023-12-01T01:37:15.787Z",
+  "notes": "update available",
+  "pub_date": "2023-12-03T06:21:40.647Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN0Z0M2ZuVTF1SlJucEZCQ2FqazVma1JxSnNyL1d5T241RnZ5NVpEbkJxSklNRE1obExBZ3lFckFRemw4ZStDZDRqdmVEMitxWmNkbEZ6SExCcDhlbjFVOWthZVJqSVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAxMzk0NjMxCWZpbGU6RGF1cGhpbl8wLjEuMF94NjRfZW4tVVMubXNpLnppcApqcGN5VEZ3dVZjbHpnY0RUTHpLR1hVV3BNM2t0MmFrTjFiWWtyaUp1WVVBSXFFc01USDJ6akVWTDVIdVlQczNNRVMwWDNzSG9nQTRPelN1QUMyQkNEQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN0Z0M2ZuVTF1SlJCWnczUDZMcXJNNGxiNkNiSjhOT0hKWHNrNk53Q2JvNEdVTFgzYzhlRlFSQmNnVGsybUtpVktoZnp0NS9OWVNKV2plNGIydEpjcGM2VFVzdVp5Z3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAxNTg0MDQzCWZpbGU6RGF1cGhpbl8wLjEuMF94NjRfZW4tVVMubXNpLnppcApaaWNRRnFqU1oxWUM3eVArbjl4Tm5salYwZVBYR2lFOGk2dWs3TjdHL0RjSXU4cTBIL3JNWHVWU1NSVlU3bDlqUFRobUdtTGNrZmNnU0g4UXozalpEUT09Cg==",
       "url": "https://github.com/i9ver4get/dauphin/releases/download/v0.1.0/Dauphin_0.1.0_x64_en-US.msi.zip"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN0Z0M2ZuVTF1SmV4NE9QZXloZkxMMWY3bS9oKzgzeXg0bFJ6R2haaHhFTDlGVi9ZazBMWllTbFdra3lGVjVmZE1nc2NselFyelBGcHFXN0pqVytuL2tOS1VMT1FEbkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAxNTg0NDk3CWZpbGU6RGF1cGhpbi5hcHAudGFyLmd6CldCRFp4U2dmNFRpUjNZSGxtRjdHemxKSEhKUUwxT0Y5dXdlRThMZHFGTWFldkdtOGFUOWhKb2xtZHdTYUgzbmlCUHNDNTVEWU90Vk5Dcy9RdEF6TkFnPT0K",
+      "url": "https://github.com/i9ver4get/dauphin/releases/download/v0.1.0/Dauphin_x64.app.tar.gz"
     }
   }
 }
