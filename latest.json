@@ -1,15 +1,15 @@
 {
   "version": "0.1.0",
   "notes": "update available",
-  "pub_date": "2023-12-03T06:21:40.647Z",
+  "pub_date": "2023-12-07T03:48:16.847Z",
   "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN0Z0M2ZuVTF1SlJCWnczUDZMcXJNNGxiNkNiSjhOT0hKWHNrNk53Q2JvNEdVTFgzYzhlRlFSQmNnVGsybUtpVktoZnp0NS9OWVNKV2plNGIydEpjcGM2VFVzdVp5Z3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAxNTg0MDQzCWZpbGU6RGF1cGhpbl8wLjEuMF94NjRfZW4tVVMubXNpLnppcApaaWNRRnFqU1oxWUM3eVArbjl4Tm5salYwZVBYR2lFOGk2dWs3TjdHL0RjSXU4cTBIL3JNWHVWU1NSVlU3bDlqUFRobUdtTGNrZmNnU0g4UXozalpEUT09Cg==",
-      "url": "https://github.com/i9ver4get/dauphin/releases/download/v0.1.0/Dauphin_0.1.0_x64_en-US.msi.zip"
-    },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN0Z0M2ZuVTF1SmV4NE9QZXloZkxMMWY3bS9oKzgzeXg0bFJ6R2haaHhFTDlGVi9ZazBMWllTbFdra3lGVjVmZE1nc2NselFyelBGcHFXN0pqVytuL2tOS1VMT1FEbkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAxNTg0NDk3CWZpbGU6RGF1cGhpbi5hcHAudGFyLmd6CldCRFp4U2dmNFRpUjNZSGxtRjdHemxKSEhKUUwxT0Y5dXdlRThMZHFGTWFldkdtOGFUOWhKb2xtZHdTYUgzbmlCUHNDNTVEWU90Vk5Dcy9RdEF6TkFnPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN0Z0M2ZuVTF1SmNTdHVCMm1KWHdwWkFJZm9lSjZaZy8zdlIycllid0ZqclNwSnBOamNwelRlRFVnR2pVOTd6ZFQzVTBPQkRGcVVOZVdrbnNFSWEwaW5aYVhicTE5c1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAxOTIwODc4CWZpbGU6RGF1cGhpbi5hcHAudGFyLmd6CmhRdnU1cXBmbjdVK3lCU1puR3pMNG8vV2pWMzB3aWt0V2dWZXZtSTUvNDRnOTZ6dXR2SlFBMUx2eFZzVVdwS2JxZWNzajdnWkRwSlhvL3FjYmtHL0N3PT0K",
       "url": "https://github.com/i9ver4get/dauphin/releases/download/v0.1.0/Dauphin_x64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN0Z0M2ZuVTF1SmZ5a1VuWW8yL2VCeEEwSHJXQ1lMZU5jS2VWWmhkMi9nck5NWFhDV0t0bURuQWwwVDY5M0pwdjAzSXpEODFEU2tQeU11TzU2ZHRFcUhQYUZVRFJ3WVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAxOTIwODkwCWZpbGU6RGF1cGhpbl8wLjEuMF94NjRfZW4tVVMubXNpLnppcApqSUZiaTczaG5CQzBRcU9BdkZpcFlaVnhUMHhja0FveExMNzUrMDN0K1ZFeHQ5R3FuaFpvUWd5ZU5BeTNXVE44TmhCZUdKb1RQem5QTTVjcVFodkhBdz09Cg==",
+      "url": "https://github.com/i9ver4get/dauphin/releases/download/v0.1.0/Dauphin_0.1.0_x64_en-US.msi.zip"
     }
   }
 }
